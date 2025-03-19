@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "581824299543",
+    "project_id": "selfi-428214",
+    "storage_bucket": "selfi-428214.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581824299543:android:82f720158f2a555fa55252",
+        "android_client_info": {
+          "package_name": "com.example.map_viewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581824299543-7mjdmqjfmcvecldhmhgkrsdf03mps2b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBykBAkZnoEObtYCLC-ex6gW_-578tV9Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581824299543-7mjdmqjfmcvecldhmhgkrsdf03mps2b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581824299543:android:93245b8b1f9bcd08a55252",
+        "android_client_info": {
+          "package_name": "com.example.sneaky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581824299543-7mjdmqjfmcvecldhmhgkrsdf03mps2b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBykBAkZnoEObtYCLC-ex6gW_-578tV9Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581824299543-7mjdmqjfmcvecldhmhgkrsdf03mps2b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
